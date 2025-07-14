@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Shell Notify Config
+Comment=Configurar notificaciones de terminal
+Exec=@HOME@/shell-notify/gui/config-gui.sh
+Icon=@HOME@/.config/shell-notify/icon/shell-notify.svg
+Terminal=false
+Type=Application
+Categories=Utility;
